@@ -1,4 +1,5 @@
 <?php
+namespace PhpApp\Controllers\Api;
 class BaseController {
     public $hello;
 
